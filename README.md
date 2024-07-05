@@ -1,0 +1,1 @@
+Basically this is an dragon game made by html,css and javascript.In this game dino is coming to attack the dragon from the front and dragon have to save himself by jump and score is updated at each jump if dino and dragon encounter then game is finished and score is displayed.
